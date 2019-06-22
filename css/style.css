@@ -1,0 +1,28 @@
+.drag-part-form{
+    padding: 0px 30px 30px 30px; 
+    background-color: #5EB8F6; 
+    color:white !important;
+    height:100vh;
+}
+
+.navbar-header a,select{
+    color:#5EB8F6 !important;
+    font-weight: bold;
+}
+
+#copy-to-clipboard{
+    background-color: #5EB8F6 !important;
+    color: white !important;
+}
+.droppable-active { 
+    background-color: #ffe !important; 
+}
+.tools a { 
+    cursor: pointer; font-size: 80%; 
+}
+.form-body .col-md-6, .form-body .col-md-12 {
+     min-height: 400px; 
+    }
+.draggable {
+     cursor: move; 
+    }
